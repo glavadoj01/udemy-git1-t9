@@ -10,6 +10,6 @@ Pueden hacer lo que quieran...
 ## Cambios desde GitHub para conflicto!!!!
 ## Cambios nuevos en local
 
-# Push con consola 2
+# Push con consola 3
 
 # Push con IDE 3
