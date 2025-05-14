@@ -11,3 +11,5 @@ Pueden hacer lo que quieran...
 ## Cambios nuevos en local
 
 # Push con consola
+
+# Push con IDE
